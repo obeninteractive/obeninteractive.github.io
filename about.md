@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-## Welcome !
+## 100% Web !
 
 
 We like to make the web pleasantly useful to your business, such as gum and pencil.
